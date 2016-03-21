@@ -1,1 +1,1 @@
-#stemwin-Notos
+emwin裸板，基于stm32f103RC，stm32开发板迷你板，
